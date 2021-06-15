@@ -20,7 +20,7 @@ $(document).ready(()=>{
 
 
 async function traerProductos(){
-    let response = await fetch ("/stock.json");
+    let response = await fetch ("./stock.json");
     let data = await response.json()
     //console.log(data);
     stockProductos = data;
