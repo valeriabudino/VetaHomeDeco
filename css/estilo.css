@@ -1,0 +1,13 @@
+.fondo-negro{
+    background-color: black;
+}
+
+.boton-eliminar {
+    background-color: white;
+    border: none;
+    font-size: 20px;
+  }
+
+.boton-eliminar:hover{
+    color: red;
+}

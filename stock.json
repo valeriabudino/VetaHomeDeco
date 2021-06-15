@@ -1,0 +1,147 @@
+
+[
+
+    {"id": 21,
+    "nombre": "SET X3 ESPEJOS HELLY",
+    "tipo": "espejo",
+    "precio": 2500, 
+    "categoria": "deco",
+    "img": "img/espejohelly.jpg"},
+
+    {"id": 22,
+    "nombre": "SET X ESPEJOS FLOWER", 
+    "tipo": "espejo", 
+    "precio": 2700, 
+    "categoria": "deco", 
+    "img": "img/flor.jpg"},
+
+    {"id": 23, 
+    "nombre": "SET X3 ESPEJOS SOL PLATEADO", 
+    "tipo": "espejo", 
+    "precio": 5000, 
+    "categoria":"deco", 
+    "img": "img/solplateado.jpg"},
+
+    {"id": 24, 
+    "nombre": "SET X3 ESPEJOS ROMA", 
+    "tipo": "espejo", 
+    "precio": 2500, 
+    "categoria": "deco", 
+    "img": "img/roma.jpg"},
+
+    {"id": 20,
+    "nombre": "Cuadro dulce hogar 28x30",
+    "tipo": "cuadro", "precio": 600, 
+    "categoria": "deco", 
+    "img": "img/dulcehogar.jpg"},
+
+    {"id": 25, 
+    "nombre": "Cuadro love smile dream", 
+    "tipo": "espejo", 
+    "precio": 2500, 
+    "categoria": "deco", 
+    "img": "img/love.jpg"},
+
+    {"id": 26, 
+    "nombre": "Cuadro hojas", 
+    "tipo": "espejo", 
+    "precio": 2900,
+    "categoria": "espejo", 
+    "img": "img/hojas.jpg"},
+     
+    {"id": 27, 
+    "nombre": "Cuadro smile", 
+    "tipo": "espejo", 
+    "precio": 2500, 
+    "categoria": "deco", 
+    "img": "img/smile.jpg"},
+
+    {"id": 28, 
+    "nombre": "ALMOHADONES VOLADOS", 
+    "tipo": "espejo", 
+    "precio": 2700, 
+    "categoria": "deco", 
+    "img": "img/almohadaVolados.jpg"},
+
+    {"id": 29, 
+    "nombre": "ALMOHADONES HOJAS", 
+    "tipo": "espejo", 
+    "precio": 1300, 
+    "categoria": "deco", 
+    "img": "img/almohadaHoja.jpg"},
+
+    {"id": 9, 
+    "nombre": "ALMOHADON SIEMPRE VIVE", 
+    "tipo": "almohadon", 
+    "precio": 850, 
+    "categoria": "deco", 
+    "img": "img/almohadaSiempreVive.jpg"},
+
+    {"id": 10, 
+    "nombre": "ALMOHADON LISO", 
+    "tipo": "almohadon", 
+    "precio": 900, 
+    "categoria": "deco", 
+    "img": "img/almohada4.jpg"},
+
+    {"id": 11,
+    "nombre": "Escritorio Nordico", 
+    "tipo": "almohadon", 
+    "precio": 720, 
+    "categoria": "muebles", 
+    "img": "img/escritorioNordico.jpg"},
+
+    {"id": 12, 
+    "nombre": "Comoda Nordica", 
+    "tipo": "otro", 
+    "precio": 1200, 
+    "categoria": "muebles", 
+    "img": "img/comoda.jpg"},
+   
+    {"id": 13, 
+    "nombre": "Mesa redonda Nordica", 
+    "tipo": "almohadon", 
+    "precio": 790, 
+    "categoria": "muebles", 
+    "img": "img/mesaRedonda.jpg"},
+
+    {"id": 14, 
+    "nombre": "Mesa para tv", 
+    "tipo": "almohadon", 
+    "precio": 940, 
+    "categoria": "muebles", 
+    "img": "img/mueble-de-tv-aspen.jpg"},
+
+    {"id": 15, 
+    "nombre": "Perchero Nordico", 
+    "tipo": "almohadon", 
+    "precio": 2500,
+    "categoria": "deco",
+    "img": "img/percheroNordico.jpg"}, 
+
+    {"id": 16, 
+    "nombre": "Perchero Rustico", 
+    "tipo": "almohadon", 
+    "precio": 2700,
+    "categoria": "deco",
+    "img": "img/percheroRustico.jpg"},
+
+    {"id": 17, 
+    "nombre": "Perchero Vintage", 
+    "tipo": "otro", 
+    "precio": 700, 
+    "categoria": "deco", 
+    "img": "img/percheroVintage.jpg"},
+
+    {"id": 18,
+    "nombre": "Perchero Simple", 
+    "tipo": "otro", 
+    "precio": 1750, 
+    "categoria": "deco", 
+    "img": "img/percheroSimple.jpeg"}
+   
+    
+    ]
+
+
+
